@@ -1,5 +1,3 @@
 # myfirstproject
 
-
-
 heello world
